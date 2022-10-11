@@ -1,0 +1,76 @@
+body{
+    color: white;
+    background-image:url('image/cig.jpg');
+    background-repeat: no-repeat;
+    max-width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 0 px auto;
+    padding: 0 px auto;
+    padding-bottom: 0 px;
+    overflow: hidden;
+    display: block;
+    color: white;
+    position: fixed;
+
+}
+    li{float: left;
+        width: 150px;
+    }
+
+    li a {
+
+        text-align: center;
+        text-decoration: none;
+        color: white;
+        padding: 40px 50px;
+        font-size: 20;
+
+    }
+    li a:hover{
+        color: #00FFFF;
+        padding: 40px 50px;
+        font-size: 15px;
+    }
+
+   
+
+    div.marquee{
+        text-shadow: white;
+        font-size: 20px;
+    }
+    img{
+        float: right;
+       height: 50px;
+       width: 50px;
+border-radius: 1000px;
+    }
+    .ul-clear{
+        clear: both;
+    }
+    
+
+.home{
+    width: 500px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    position: scroll;
+    margin-bottom: 0px;
+}
+h3{
+    color: rgb(5, 79, 79);
+    border-bottom: 2px solid white;
+
+  
+}
+ p{padding-top: 0px; margin: 0px;color: rgb(63, 226, 226);
+   
+}
+ 
