@@ -44,12 +44,7 @@ ul{
         text-shadow: white;
         font-size: 20px;
     }
-    img{
-        float: right;
-       height: 50px;
-       width: 50px;
-border-radius: 1000px;
-    }
+    
     .ul-clear{
         clear: both;
     }
@@ -70,7 +65,7 @@ h3{
 
   
 }
- p{padding-top: 0px; margin: 0px;color: rgb(63, 226, 226);
+ p{padding-top: 0px; margin: 0px;color: white;
    
 }
  
