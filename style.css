@@ -2,7 +2,7 @@ body{
     color: white;
     background-image:url('image/cig.jpg');
     background-repeat: no-repeat;
-    max-width: 100%;
+    max-width: 600px;
     background-size: cover;
     background-attachment: fixed;
 }
